@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="70%" >
       <h3>what i can do (i cant do shit)</h3>
       <div data-importer="techs" align="left">
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
     </td>
-    <td width="30%" valign="top">
+    <td width="30%" >
       <h3>learning atm</h3>
       
 <div data-importer="techs" align="left">
