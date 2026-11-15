@@ -27,7 +27,7 @@
 ### snek !!!!!!!!!!
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
-###
+
 
 <!--
 **Lilicorn/lilicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
