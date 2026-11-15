@@ -4,10 +4,11 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <p data-importer="text" align="left">wait so i can just use html???</p>
 
-
-### what i can do (i cant do shit)
-
-<div data-importer="techs" align="left">
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>what i can do (i cant do shit)</h3>
+      <div data-importer="techs" align="left">
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -24,12 +25,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-### what im learning atm
-
+    </td>
+    <td width="30%" valign="top">
+      <h3>learning atm</h3>
+      
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+    </td>
+  </tr>
+</table>
 
 ### snaek !!!!!!!!!!
 
