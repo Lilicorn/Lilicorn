@@ -3,7 +3,7 @@
 <img data-importer="image" align="right" height="100" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <h1 data-importer="text" align="left">hello everynyan</h1>
 
-<img data-importer="image" align="left" height="100" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
+<img data-importer="image" align="left" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <table width="100%">
   <tr>
     <td width="50%" >
