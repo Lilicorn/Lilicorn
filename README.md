@@ -1,14 +1,8 @@
-<h1 data-importer="text" align="left">hello everynyan</h1>
-
-###
-
+<img data-importer="image" align="right" height="100" width = "200" src="https://i.imgflip.com/65efzo.gif"  /><h1 data-importer="text" align="left">hello everynyan</h1>
 <p data-importer="text" align="left">wait so i can just use html???</p>
 
-###
 
-<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### what i can do (i cant do shit)
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -30,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+### snek !!!!!!!!!!
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
 ###
