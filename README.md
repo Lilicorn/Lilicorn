@@ -1,3 +1,5 @@
+<div style="background-color:grey; padding: 10px;">
+
 <img data-importer="image" align="right" height="100" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <p data-importer="text" align="left">wait so i can just use html???</p>
@@ -41,6 +43,7 @@
 
 ~~music taste so ""niche"" last.fm cant find anything lmfaooo???,~~
 
+</div>
 <!--
 **Lilicorn/lilicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
