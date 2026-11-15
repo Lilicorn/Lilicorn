@@ -4,7 +4,7 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <p data-importer="text" align="left">wait so i can just use html???</p>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" >
       <h3>what i can do (i cant do shit)</h3>
