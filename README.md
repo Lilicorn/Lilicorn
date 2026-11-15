@@ -28,10 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-### snek !!!!!!!!!!
+### snaek !!!!!!!!!!
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
 
+### trying to get rid of my lifelong music taste anxiety hi everyone
+
+[![My scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=500&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4)](https://www.last.fm/user/Lilicorn)
 
 <!--
 **Lilicorn/lilicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
