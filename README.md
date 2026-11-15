@@ -8,7 +8,7 @@
   <tr>
     <td width="70%" >
       <h3>what i can do (i cant do shit)</h3>
-      <div data-importer="techs" align="left">
+      <div width="100%" data-importer="techs" align="left">
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -29,7 +29,7 @@
     <td width="30%" >
       <h3>learning atm</h3>
       
-<div data-importer="techs" align="left">
+<div width="100%" data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
     </td>
