@@ -35,7 +35,7 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
 
-<img data-importer="image" align="left" height="400" width = "200" src="https://i.pinimg.com/736x/bc/3c/8a/bc3c8af7757c8781085fdaf0552d2fae.jpg" style="margin: 0 20px;" />
+<img data-importer="image" align="left" height="400" width = "200" src="https://i.pinimg.com/736x/bc/3c/8a/bc3c8af7757c8781085fdaf0552d2fae.jpg" style="margin:0 15px 0 30px;" />
 
 ### trying to get rid of my lifelong music taste anxiety hi everyone
 
