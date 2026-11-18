@@ -44,7 +44,7 @@
 
 ### trying to get rid of my lifelong music taste anxiety hi everyone
 
-[![me scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=500&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4)(https://www.last.fm/user/Lilicorn)
+<!--[![me scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=500&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4)(https://www.last.fm/user/Lilicorn)
 
 ~~music taste so ""niche"" last.fm cant find anything lmfaooo???,~~
 
