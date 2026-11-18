@@ -45,6 +45,7 @@
 ### scrobble :3333 (its broken asf but hey)
 
 <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=500&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4" alt="lastfm scrobble svg from github">
+
 ~~music taste so ""niche"" last.fm cant find anything lmfaooo???,~~
 
 </div>
