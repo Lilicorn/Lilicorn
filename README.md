@@ -4,7 +4,7 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
 
-<p align="left"><code>status:</code> <img data-importer="image"  width = "60" height="40" src="https://i.ibb.co/DT8T9M7/Untitled91-20261121181353.png"  /><i>"
+<p align="left"><code>status:</code> <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/RGZxx6ZB/Untitled91-20261121181853.png"  /><i>"
 <!-- STATUS:START -->
 :ribbon: driving is hard af yall im STRUGGLING to get my license lmaooo
 <!-- STATUS:END -->
