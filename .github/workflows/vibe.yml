@@ -1,0 +1,50 @@
+name: Switch Profile Vibe Image
+
+on:
+  schedule:
+    - cron: '0 11 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  switch-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update "vibe" image in README based on day-/nighttime
+        env:
+          DAY_URL: "https://sig.grumpybumpers.com/host/lilicorngithub1.gif"
+          NIGHT_URL: "https://sig.grumpybumpers.com/host/lilicorngithub2.gif"
+        run: |
+          HOUR=$(date -u +%H)
+
+          if [ "$HOUR" -ge 11 ] && [ "$HOUR" -lt 23 ]; then
+            TARGET_URL="$DAY_URL"
+          else
+            TARGET_URL="$NIGHT_URL"
+          fi
+
+          TARGET_URL="$TARGET_URL" python3 -c "
+          import re, os
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          new_tag = '<img width=\"100\" src=\"' + os.environ['TARGET_URL'] + '\" />'
+          new_block = '<!-- VIBE_IMG:START -->\n' + new_tag + '\n<!-- VIBE_IMG:END -->'
+          updated = re.sub(r'<!-- VIBE_IMG:START -->.*?<!-- VIBE_IMG:END -->', new_block, content, flags=re.DOTALL)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "change image" && git push)
