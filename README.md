@@ -4,22 +4,20 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
 
-<p align="left"><code>status:</code> <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/RGZxx6ZB/Untitled91-20261121181853.png"  /><i>"
+<p align="left"> <img data-importer="image" height = "50" width="100" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
+  <img data-importer="image"  width = "50" height="30" src="https://i.ibb.co/RGZxx6ZB/Untitled91-20261121181853.png"  /><i>"
 <!-- STATUS:START -->
 :ribbon: driving is hard af yall im STRUGGLING to get my license lmaooo
 <!-- STATUS:END -->
   "</i>
-<img data-importer="image" height = "30" src="https://i.ibb.co/PvGcx0cY/Untitled91-20261121181315.png"  /></p>
+<img data-importer="image" height = "25" src="https://i.ibb.co/PvGcx0cY/Untitled91-20261121181315.png"  /></p>
 <br clear="all" />
+<table width=100%>
   <tr>
     <td width="33%" valign="top"><h3>i'm <b><i>Lilicorn,</i></b> a software dev-in-training <img data-importer="image" width = "30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /></h3><p>i have the unhealthy habit of pushing profile customization to its absolute limits <img data-importer="image" width = "30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /> which is also how i found my passion in coding originally yay</p></td>
     <td width="33%" >
       <h3>what i can do (i cant do shit)</h3>
       <div  data-importer="techs" align="left">
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
