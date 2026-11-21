@@ -4,7 +4,7 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
 
-<p align="left"><code>status:</code> <img data-importer="image"  width = "60" height="30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /><i>"
+<p align="left"><code>status:</code> <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/DT8T9M7/Untitled91-20261121181353.png"  /><i>"
 <!-- STATUS:START -->
 :ribbon: driving is hard af yall im STRUGGLING to get my license lmaooo
 <!-- STATUS:END -->
