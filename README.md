@@ -52,7 +52,7 @@ driving is hard af yall :ribbon:
 
 <img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 
-### snaek !!!!!!!!!!
+<h3>snaek !!!!!!!!!! <img src="https://64.media.tumblr.com/cd7dfcb5b43e0f3dfbb6933fefa076d4/bea578ccfee15413-fb/s250x400/6602353c9bd01c8538e97f39d7bedaf0f0437b61.gifv"></h3>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
 
@@ -62,8 +62,7 @@ driving is hard af yall :ribbon:
   <tr>
     <td width="66%">
       
-<h3>scrobble scrobbleeeee :3333 
-<img src="https://i.imgur.com/HAXW8LV.gif"> </h3>
+<h3><img src="https://i.imgur.com/HAXW8LV.gif"> scrobble scrobbleeeee :3333</h3>
       <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=350&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4" alt="lastfm scrobble svg from https://github.com/JeffreyCA/lastfm-recently-played-readme">
 
 ~~music taste so ""niche"" last.fm cant find the album covers lmfaooo???,~~
