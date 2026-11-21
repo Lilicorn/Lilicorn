@@ -44,7 +44,7 @@
 </table>
 
 <img data-importer="image" align="right" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
-
+<br clear="all" />
 
 ### snaek !!!!!!!!!!
 
