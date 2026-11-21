@@ -3,19 +3,20 @@
 <img data-importer="image" align="right" height="100" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
-<p align="left"> status
+
+<p align="left"> <img data-importer="image"  width = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <!-- STATUS:START -->
 :ribbon: driving is hard af yall im STRUGGLING to get my license lmaooo
 <!-- STATUS:END -->
-  </p>
+  <img data-importer="image" width = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /></p>
 <br clear="all" />
 
-
-<table width="100%">
+<table width="50%" align="right">
   <tr>
-    <td width="50%" >
+    <td width="33%" valign="top">i'm Lilicorn, a girlie learning software dev stuff <img data-importer="image" width = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /> </td>
+    <td width="33%" >
       <h3>what i can do (i cant do shit)</h3>
-      <div width="100%" data-importer="techs" align="left">
+      <div  data-importer="techs" align="left">
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -33,17 +34,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
     </td>
-    <td width="50%" >
+    <td width="33%" >
       <h3>learning atm</h3>
       
-<div width="100%" data-importer="techs" align="left">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
     </td>
   </tr>
 </table>
 
-<img data-importer="image" align="center" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
+
+<img data-importer="image" align="center" width = "100%" height = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <br clear="all" />
 
 ### snaek !!!!!!!!!!
