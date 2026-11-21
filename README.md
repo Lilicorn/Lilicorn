@@ -12,7 +12,7 @@
 <!-- VIBE_IMG:END -->
   <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/Qv3BDR8k/Untitled91-20261121192109.png"  /><i>"
 <!-- STATUS:START -->
-driving is hard af yall :ribbon:
+omg my readme looks saurrr good yummy. now i kinda wanna work on other stuff tmr :ribbon:
 <!-- STATUS:END -->
   "</i>
 <img data-importer="image" height = "30" src="https://i.ibb.co/vvfB6xQN/Untitled92-20261121192344.png"  /></p>
