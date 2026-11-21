@@ -33,9 +33,9 @@ jobs:
           MESSAGE=$(echo "$RESPONSE" | jq -r '.data.user.status.message // ""')
 
           if [ -z "$EMOJI" ] && [ -z "$MESSAGE" ]; then
-            STATUS_LINE="*Jelenleg nincs beállított státusz.*"
+            STATUS_LINE="*no status*"
           else
-            STATUS_LINE="**Aktuális státusz:** $EMOJI $MESSAGE"
+            STATUS_LINE="$EMOJI $MESSAGE"
           fi
 
           STATUS_LINE="$STATUS_LINE" python3 -c "
