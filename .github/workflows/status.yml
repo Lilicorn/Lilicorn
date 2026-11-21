@@ -1,0 +1,59 @@
+name: Update GitHub Status
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update status
+        env:
+          GH_TOKEN: ${{ secrets.STATUS_TEXT }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          RESPONSE=$(gh api graphql -f query="
+            query {
+              user(login: \"$USERNAME\") {
+                status {
+                  emoji
+                  message
+                }
+              }
+            }")
+
+          EMOJI=$(echo "$RESPONSE" | jq -r '.data.user.status.emoji // ""')
+          MESSAGE=$(echo "$RESPONSE" | jq -r '.data.user.status.message // ""')
+
+          if [ -z "$EMOJI" ] && [ -z "$MESSAGE" ]; then
+            STATUS_LINE="*Jelenleg nincs beállított státusz.*"
+          else
+            STATUS_LINE="**Aktuális státusz:** $EMOJI $MESSAGE"
+          fi
+
+          STATUS_LINE="$STATUS_LINE" python3 -c "
+          import re, os
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          new_block = '<!-- STATUS:START -->\n' + os.environ['STATUS_LINE'] + '\n<!-- STATUS:END -->'
+          updated = re.sub(r'<!-- STATUS:START -->.*?<!-- STATUS:END -->', new_block, content, flags=re.DOTALL)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Státusz frissítése" && git push)
