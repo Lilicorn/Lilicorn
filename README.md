@@ -1,9 +1,11 @@
-<div style="padding: 20px">
+
+<p align="center">
+<img src="https://64.media.tumblr.com/3df6b965b8a70a79a6ee55010aaa82fb/78deac175f4188e6-30/s250x400/b9c77521745fbc645687564f075dcda03cc8d2ea.gifv" align="center" /></p>
 
 <img data-importer="image" align="right" height="100" width = "200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
-
+<img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 <p align="left"> <img data-importer="image" height = "50" width="100" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
   <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/Qv3BDR8k/Untitled91-20261121192109.png"  /><i>"
 <!-- STATUS:START -->
@@ -14,8 +16,10 @@ driving is hard af yall :ribbon:
 <br clear="all" />
 <table width=100%>
   <tr>
-    <td width="33%" valign="top"><h3>i'm <b><i>Lilicorn,</i></b> a software dev-in-training <img data-importer="image" width = "30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /></h3><p>i have the unhealthy habit of pushing profile customization to its absolute limits <img data-importer="image" width = "30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /> which is also how i found my passion in coding originally yay</p></td>
-    <td width="33%" >
+    <td width="33%" valign="top"><p align="center">
+<img src="https://64.media.tumblr.com/16c564bf39996216d4e2a9384ec9aeb7/be11f2c23fdd8889-7d/s250x400/fdb5133728ce64b1f63ebc5154ccf24088b9cde7.gifv" align="center" /></p><h3>i'm <b><i>Lilicorn,</i></b> a dev-in-training <img data-importer="image" src="https://i.imgur.com/mdogDIE.gif"  /></h3>i have the unhealthy habit of pushing profile customization to its absolute limits <img data-importer="image"  src="https://i.imgur.com/YKDLXv5.gif"  /> which is also how i found my passion in coding originally yay <img data-importer="image"  src="https://i.imgur.com/gCb7izf.gif"  /></td>
+    <td width="33%"  valign="top"><p align="center">
+<img src="https://64.media.tumblr.com/16c564bf39996216d4e2a9384ec9aeb7/be11f2c23fdd8889-7d/s250x400/fdb5133728ce64b1f63ebc5154ccf24088b9cde7.gifv" align="center" /></p>
       <h3>what i can do (i cant do shit)</h3>
       <div  data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,7 +35,8 @@ driving is hard af yall :ribbon:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
     </td>
-    <td width="33%" >
+    <td width="33%"  valign="top"><p align="center">
+<img src="https://64.media.tumblr.com/16c564bf39996216d4e2a9384ec9aeb7/be11f2c23fdd8889-7d/s250x400/fdb5133728ce64b1f63ebc5154ccf24088b9cde7.gifv" align="center" /></p>
       <h3>learning atm</h3>
       
 <div data-importer="techs" align="left">
@@ -42,15 +47,13 @@ driving is hard af yall :ribbon:
 </table>
 
 
-<img data-importer="image" align="center" width = "100%" height = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
-<br clear="all" />
+<img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 
 ### snaek !!!!!!!!!!
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lilicorn/Lilicorn/snake-output/snake.svg" alt="Snake animation" />
 
-<img data-importer="image" align="center" width = "100%" height = "50" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
-<br clear="all" />
+<img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 
 ### scrobble scrobbleeeee :3333
 
@@ -58,7 +61,8 @@ driving is hard af yall :ribbon:
 
 ~~music taste so ""niche"" last.fm cant find the album covers lmfaooo???,~~
 
-</div>
+<p align="center">
+<img src="https://64.media.tumblr.com/3df6b965b8a70a79a6ee55010aaa82fb/78deac175f4188e6-30/s250x400/b9c77521745fbc645687564f075dcda03cc8d2ea.gifv" align="center" /></p>
 <!--
 **Lilicorn/lilicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
