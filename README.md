@@ -9,7 +9,7 @@
 :ribbon: driving is hard af yall im STRUGGLING to get my license lmaooo
 <!-- STATUS:END -->
   "</i>
-<img data-importer="image" height = "30" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  /></p>
+<img data-importer="image" height = "30" src="https://i.ibb.co/PvGcx0cY/Untitled91-20261121181315.png"  /></p>
 <br clear="all" />
 
 <table width="50%" align="right">
