@@ -45,7 +45,7 @@
 
 <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=500&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4" alt="lastfm scrobble svg from https://github.com/JeffreyCA/lastfm-recently-played-readme">
 
-~~music taste so ""niche"" last.fm cant find anything lmfaooo???,~~
+~~music taste so ""niche"" last.fm cant find the album covers lmfaooo???,~~
 
 </div>
 <!--
