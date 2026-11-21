@@ -6,7 +6,7 @@
 <h1 data-importer="text" align="left">hello everynyan</h1>
 <br clear="all" />
 <img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
-<p align="left"> <img data-importer="image" height = "50" width="100" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODMydG1rdnI2djZkb3loNnV5cW5pN3UyazR4djg3NnFqYmNnNDQyMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif"  />
+<p align="left"> <img data-importer="image" width="100" src="https://sig.grumpybumpers.com/host/lilicorngithub1.gif"  />
   <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/Qv3BDR8k/Untitled91-20261121192109.png"  /><i>"
 <!-- STATUS:START -->
 driving is hard af yall :ribbon:
@@ -55,7 +55,8 @@ driving is hard af yall :ribbon:
 
 <img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 
-### scrobble scrobbleeeee :3333
+<h3>scrobble scrobbleeeee :3333 
+<img src="https://i.imgur.com/HAXW8LV.gif"> </h3>
 
 <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Lilicorn&theme=dracula&width=350&radius=15&footer=wave&artist_color=e09ece&accent_color=e09ece&loved_color=ff69b4&logo_color=ff69b4" alt="lastfm scrobble svg from https://github.com/JeffreyCA/lastfm-recently-played-readme">
 
