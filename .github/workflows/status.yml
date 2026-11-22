@@ -56,4 +56,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Státusz frissítése" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update status text" && git push)
