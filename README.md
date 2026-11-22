@@ -8,7 +8,7 @@
 <img data-importer="image" align="center" width = "100%" height = "50" src="https://64.media.tumblr.com/9873d0d0f8247df64ba89cf5c6939fca/bffbd2ab6e02ef27-6e/s2048x3072/31a220f02a24bea5fdfb4c8573c2b362152f301d.pnj"  />
 <p align="left"> 
   <!-- VIBE_IMG:START -->
-<img width="100" src="https://sig.grumpybumpers.com/host/lilicorngithub2.gif" />
+<img width="100" src="https://sig.grumpybumpers.com/host/lilicorngithub1.gif" />
 <!-- VIBE_IMG:END -->
   <img data-importer="image"  width = "60" height="30" src="https://i.ibb.co/Qv3BDR8k/Untitled91-20261121192109.png"  /><i>"
 <!-- STATUS:START -->
