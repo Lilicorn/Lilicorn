@@ -43,7 +43,11 @@ omg my readme looks saurrr good yummy. now i kinda wanna work on other stuff tmr
       <h3>learning atm</h3>
       
 <div data-importer="techs" align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+
 </div>
     </td>
   </tr>
